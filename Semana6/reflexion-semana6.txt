@@ -1,0 +1,10 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por
+los ciudadanos de forma estructurada?
+Es muy importante. ya que la información bien estructurada permite a las plataformas procesar datos de forma 
+inmediata permitiendo que la información sea mas eficiente, es decir que esto hace que las comunidades reciban 
+respuestas rápidas de un problema urbano permitiendo recibir información clara y precisa de los reportes, 
+ejemplo: Automatización y eficiencia: permite clasificar y priorizar problemas sin intervención, Integración y 
+estandarización: facilita el cruce de datos  de reportes ciudadanos y otras fuentes, Análisis predictivo: 
+identifica patrones para resolver problemas antes de que sean graves. Con esto quiero decir, que es de mucha 
+importancia que una comunidad utilice plataformas digitales que les faciliten el envío y recepción de información 
+clara y precisa para que se le pueda dar respuesta rápida y seguimiento oportuno.
